@@ -1,0 +1,16 @@
+{
+  "posts": [],
+  "signup": [
+    {
+      "name": "Aiswarya",
+      "email": "ssss",
+      "mobile": 2222,
+      "password": "ssss",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
